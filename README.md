@@ -2,4 +2,4 @@
 Technical test API<br>
 1. PHP 7.2<br>
 2. MariaDB<br>
-3.JWT<br>
+3. JWT<br>
